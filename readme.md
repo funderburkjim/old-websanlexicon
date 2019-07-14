@@ -1,5 +1,5 @@
 
-### websanlexicon
+### old-websanlexicon
 This repository has code and documentation for installing the web displays
 used in the http://www.sanskrit-lexicon.uni-koeln.de/ web displays.
 
@@ -12,4 +12,7 @@ these templates into the php, html, css, and js files tailored to the
 characteristics of dictionary X.
 
 Further documentation of this template approach will be developed over time.
+
+Name changed to 'old-websanlexicon'.  Current version of repository is sanskrit-lexicon/csl-websanlexicon.
+
   
